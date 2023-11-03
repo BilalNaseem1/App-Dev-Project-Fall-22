@@ -5,7 +5,7 @@ Performed Cleaning, EDA, Feature Engineering, and Pre-processing of AirBnB Appâ€
 2015 - 2018 in the city of Seattle, using Python. A Dashboard was also built on Dash which included a Choropleth Map of the City.
 
 
-<img src="/Images/Dashboard.png" alt="Dashboard" width="300" align="right">
+<img src="/Images/Dashboard.PNG" alt="Dashboard" width="300" align="right">
 
 
 
